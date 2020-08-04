@@ -1,0 +1,45 @@
+body{
+	background-color: antiquewhite;
+}
+
+.ui {
+	font-family: 'Mulish', sans-serif !important;	
+}
+
+.image {
+	margin: auto 0;
+}
+
+i.icon {
+	font-size: 1.25rem;
+}
+
+.container.main{
+	margin-top: 5rem; 
+}
+
+#submitBtn {
+	margin: 0 41.6%;
+}
+
+#delete{
+	float: right;
+	display: inline;
+}
+
+.meta{
+	margin: 0.25rem;
+}
+
+.description{
+	margin: 0.25rem;
+	margin-top: 1rem;
+}
+
+#readMoreBtn {
+	margin-top: 1.85rem;
+}
+
+.lead {
+	font-size: 1.5rem;
+}
